@@ -7,7 +7,7 @@ use warnings;
 use LWP::UserAgent;
 use Web::Scraper;
 
-our $VERSION = '0.10';
+our $VERSION = '0.11';
 
 sub new {
     my $class = shift;

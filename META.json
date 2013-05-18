@@ -27,7 +27,6 @@
    "prereqs" : {
       "build" : {
          "requires" : {
-            "ExtUtils::MakeMaker" : "6.59",
             "Test::Base" : "0"
          }
       },
@@ -50,7 +49,7 @@
          "requires" : {
             "LWP::UserAgent" : "0",
             "Web::Scraper" : "0",
-            "perl" : "5.008"
+            "perl" : "5.008001"
          }
       }
    },
@@ -66,5 +65,5 @@
          "web" : "https://github.com/higemaru/p5-www-googleplay-scraper"
       }
    },
-   "version" : "0.10"
+   "version" : "0.11"
 }
